@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>S04 L05 Method overloading</name>
+	<name>S05 L01 Getters and setters</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1697045838155</id>
+			<id>1696277823827</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
